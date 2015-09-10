@@ -1,8 +1,8 @@
-# _{Application Name}_
+# my first webpage
 
-##### _{Brief description of application}, {Date of current version}_
+##### This is our first attempt to create a webpage, Sep 9, 2015
 
-#### By _**{List of contributors}**_
+#### By: Mieka and Yasemin
 
 ## Description
 
